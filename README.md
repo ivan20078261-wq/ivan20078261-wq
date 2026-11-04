@@ -37,7 +37,7 @@ Desarrollador enfocado en construir aplicaciones móviles *offline-first*, inter
 <tr>
 <td width="50%" valign="top">
 
-#### 📱 [AgroP](https://github.com/ivan20078261-wq)
+#### 📱 [AgroRiego](https://github.com/ivan20078261-wq)
 Sistema IoT de asistencia y monitoreo de riego por surcos utilizando sensores de humedad de suelo y microcontroladores.  
 `React Native` · `Expo` · `C++ / Arduino` · `ESP32`
 
