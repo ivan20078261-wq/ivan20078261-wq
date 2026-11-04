@@ -1,4 +1,9 @@
-<h1 align="center">
+<!-- ═══════════════ BANNER PERSONALIZADO ═══════════════ -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/672cb3fa-ef1a-425d-b5b7-e9b0f3573cc2" alt="Ilustración de Iván Molina programando" width="100%" />
+</p>
+
+<h1 align="center" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Iván+Molina;Software+%26+Mobile+Developer;Apasionado+por+Linux%2C+C%2B%2B+y+React+Native" alt="Typing SVG" />
 </h1>
 
@@ -26,6 +31,29 @@ Desarrollador enfocado en construir aplicaciones móviles *offline-first*, inter
 
 ---
 
+### 🌟 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📱 [AgroP](https://github.com/ivan20078261-wq)
+Sistema IoT de asistencia y monitoreo de riego por surcos utilizando sensores de humedad de suelo y microcontroladores.  
+`React Native` · `Expo` · `C++ / Arduino` · `ESP32`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🍃 [ConservaSmart](https://github.com/ivan20078261-wq/ConservaSmart)
+Plataforma y ecosistema enfocado en la conservación segura de alimentos, control de parámetros de esterilización y tratamiento térmico.  
+`React Native` · `IA` · `Open Source`
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 💻 Stack Tecnológico
 
 <p align="left">
@@ -42,19 +70,6 @@ Desarrollador enfocado en construir aplicaciones móviles *offline-first*, inter
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUÍ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUÍ&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO-AQUÍ&theme=tokyonight&hide_border=true" width="94%" />
 </p>
 
 ---
