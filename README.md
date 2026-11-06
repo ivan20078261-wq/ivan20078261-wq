@@ -12,7 +12,7 @@
 
 <!-- BADGES DE CONTACTO Y PORTAFOLIO -->
 <p align="center">
-  <a href="https://portfolio-lemon-eta-56.vercel.app/" target="_blank">
+  <a href="https://portafolioivanmolina.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
